@@ -1,1 +1,1 @@
-# Learning APIs with GIPHY API
+# HTML/Javascript Boilerplate 
